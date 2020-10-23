@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">Imatchcodebase</string>
+    <string name="App_Name">Imatch</string>
+    <string name="reg_text">Register</string>
+    <string name="fog_txt">Forget Password</string>
+    <string name="un_txt">Username</string>
+    <string name="pass_txt">Password</string>
+    <string name="login_txt">Login</string>
+    <string name="we_txt">Welcome!</string>
+    <string name="frstnme_txt">First Name</string>
+    <string name="lastnme_txt">Last Name</string>
+    <string name="email_txt">Email</string>
+    <string name="password_txt">Password</string>
+    <string name="conf_pass_txt">Confirm Password</string>
+    <string name="phone_txt">Phone</string>
+    <string name="submit">Submit</string>
+    <string name="forgotpwd">Forgot Password</string>
+    <string name="term">Terms of Service</string>
+    <string name="terms_service_txt">
+         If you create an account on the Website, you are responsible for maintaining the security of your account, and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the account. You agree to provide and maintain accurate, current and complete information, including your contact information for notices and other communications from us and your payment information. You may not use false or misleading information in connection to your account, or trade on the name or reputation of others, and Usabilla may change or remove any information that it considers inappropriate or unlawful, or otherwise likely to expose Usabilla to claims of third parties. You agree that we may take steps to verify the accuracy of information you have provided to us.
+You are responsible for taking reasonable steps to maintain the confidentiality of your username and password. You must immediately notify Usabilla of any unauthorized uses of your information, your account or any other security breaches. Usabilla will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions.
+    </string>
+    <string name="terms_chx">By checking this box, I agree to the above</string>
+    <string name="cur_pass">Current Password</string>
+    <string name="new_pass">New Password</string>
+    <string name="confir_pass">Confirm New Password</string>
+    <string name="change_pass">Change password</string>
 </resources>
